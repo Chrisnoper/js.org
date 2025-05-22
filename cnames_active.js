@@ -545,12 +545,8 @@ var cnames_active = {
   "chris": "christopher-hayes.github.io/chris",
   "chrismendis": "chrismendis.github.io", // noCF? (don´t add this in a new PR)
   "christo": "christoga.github.io/js-org", // noCF? (don´t add this in a new PR)
+  "chrisnoperfr": "chrisnoper.github.io/website",
   "christopher": "marekkobida.github.io/christopher",
-  "chrisnoper": {
-    owner: "chrisnoper",
-    repo: "website",
-    branch: "main"
-  },
   "chronos": "espinielli.github.io/chronos", // noCF? (don´t add this in a new PR)
   "chronosis": "jack-weilage.github.io/chronosis",
   "citation": "citation-js.github.io/site",
